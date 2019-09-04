@@ -61,6 +61,7 @@ HT45F75_BodyFat_SDK/.vscode/settings.json
 #*.pjtx
 #*.pjw
 *.ASM
+!startup1_l.asm
 *.LST
 *.OBJ
 *.MTP

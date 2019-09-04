@@ -1,0 +1,20 @@
+#ifndef COMMON_H__
+#define COMMON_H__
+
+#include "typedef.h"
+#include "BH66F2650.h"
+#include "..\BH66F26x0_BodyFat_SDK\SDK_Interface.h"
+#include "..\BH66F26x0_BodyFat_SDK\SDK_UserSetting.h"
+#include "BodyFat_R.h"
+#include "BH66F26x0_Sys.h"
+#include "global_variable.h"
+#include "mydefine.h"
+#include "bodyfatscales_task.h"
+#include "function.h"
+#include "global_variable.h"
+#include "led_display.h"
+#include "uart.h"
+#include "user_initial.h"
+#include "user_protocol.h"
+#include "key.h"
+#endif //COMMON_H__
