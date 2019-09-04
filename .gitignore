@@ -56,10 +56,10 @@ HT45F75_BodyFat_SDK/.vscode-upload.json
 HT45F75_BodyFat_SDK/.vscode/settings.json
 
 #忽略git管理文件
-*.opt
-*.pjt
-*.pjtx
-*.pjw
+#*.opt
+#*.pjt
+#*.pjtx
+#*.pjw
 *.ASM
 *.LST
 *.OBJ
@@ -72,3 +72,7 @@ HT45F75_BodyFat_SDK/.vscode/settings.json
 *.MEM
 *.MTP
 *.TSK
+output/*.*
+/Datasheet
+
+/.svn
